@@ -1,9 +1,9 @@
 <div align="center">
 
 # MOSTAFA SOLIMAN
-### AI Engineer · MLOps · AI Automation · Data Engineering
+### Junior NLP Engineer · AI / Machine Learning
 
-**I design intelligent systems that move from data → models → automation → production.**
+**I build practical NLP systems that turn text and language data into useful AI applications.**
 
 <br/>
 
@@ -21,11 +21,11 @@
 <tr>
 <td width="55%" valign="top">
 
-### Building AI systems, not isolated models.
+### Building AI systems with a focus on language.
 
-I'm an AI-focused engineer interested in the complete lifecycle of intelligent software — from preparing data and developing ML solutions to integrating APIs, automating workflows, deploying services, and moving systems toward production.
+I'm a junior AI engineer focused on Natural Language Processing and practical machine learning. My interests cover the path from preparing text and data to developing NLP solutions, integrating AI into applications, and building useful automated systems.
 
-> **Understand the problem → design the system → build → automate → deploy → improve.**
+> **Understand the language problem → prepare the data → build → evaluate → integrate → improve.**
 
 </td>
 <td width="45%" valign="top">
@@ -33,13 +33,13 @@ I'm an AI-focused engineer interested in the complete lifecycle of intelligent s
 ### Engineering Focus
 
 ```text
-AI / ML
+Natural Language Processing
+AI / Machine Learning
+LLM Applications
 AI Automation
-MLOps
-Data Engineering
 Backend / APIs
 
-DATA → INTELLIGENCE → SOFTWARE → AUTOMATION
+TEXT → INTELLIGENCE → APPLICATIONS → AUTOMATION
 ```
 
 </td>
@@ -79,23 +79,23 @@ DATA → INTELLIGENCE → SOFTWARE → AUTOMATION
 <tr>
 <td width="33%" valign="top">
 
-### AI Systems
+### NLP Systems
 
-LLM-powered applications, intelligent assistants, ML pipelines, and practical AI products.
-
-</td>
-<td width="33%" valign="top">
-
-### Automation
-
-AI agents and workflow automation connecting models, APIs, business tools, databases, and communication platforms.
+Practical natural language applications built around text data, machine learning, and AI models.
 
 </td>
 <td width="33%" valign="top">
 
-### MLOps
+### AI Applications
 
-Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring, and reproducible environments.
+LLM-powered applications and intelligent systems designed to solve practical problems.
+
+</td>
+<td width="33%" valign="top">
+
+### AI Automation
+
+Automated workflows connecting AI models, APIs, business tools, databases, and applications.
 
 </td>
 </tr>
@@ -105,32 +105,32 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 ## 04 · SELECTED ENGINEERING WORK
 
+### `Natural Language Processing`
+> Building practical NLP workflows for working with text and language data and turning it into useful AI solutions.
+
+**Focus:** Python · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch
+
+### `Machine Learning Pipelines`
+> Turning raw data into reproducible workflows for preprocessing, training, evaluation, and inference.
+
+**Focus:** Python · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch
+
 ### `AI Automation Systems`
 > Connecting **LLMs + APIs + business applications + workflow orchestration** into usable automated systems.
 
 **Focus:** n8n · AI Agents · APIs · LLMs · Webhooks · Email · Databases
 
-### `Machine Learning Pipelines`
-> Turning raw data into reproducible workflows for preprocessing, feature engineering, training, evaluation, and inference.
-
-**Focus:** Python · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch
-
-### `Production AI Applications`
-> Building the software layer around AI — backend services, integrations, deployment, and automation.
-
-**Focus:** FastAPI · REST APIs · Docker · Git · Linux
-
 ---
 
 ## 05 · CURRENTLY FOCUSED ON
 
-- Advanced Machine Learning & Deep Learning
-- AI Agents and LLM applications
-- AI Automation architecture
-- MLOps and model deployment
-- Data Engineering fundamentals
-- Cloud-ready AI systems
-- Production-oriented software architecture
+- Natural Language Processing fundamentals
+- NLP and text-based machine learning
+- LLM applications
+- Machine Learning & Deep Learning
+- AI Agents and AI Automation
+- Backend APIs for AI applications
+- Building practical AI systems
 
 ---
 
@@ -146,7 +146,7 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 ## 07 · LET'S BUILD
 
-If you're interested in **AI Engineering, intelligent automation, ML systems, or practical AI products**, feel free to connect.
+If you're interested in **NLP, AI Engineering, intelligent automation, or practical AI applications**, feel free to connect.
 
 <div align="center">
 
@@ -155,6 +155,6 @@ If you're interested in **AI Engineering, intelligent automation, ML systems, or
 
 <br/><br/>
 
-`BUILD · AUTOMATE · DEPLOY · IMPROVE`
+`LEARN · BUILD · EVALUATE · IMPROVE`
 
 </div>
