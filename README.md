@@ -1,224 +1,223 @@
-# 👋 Hi, I'm Mostafa Mousa
+<div align="center">
 
-### AI Engineer • MLOps • AI Automation • Data Engineering
+# MOSTAFA MOUSA
+### AI Engineer · MLOps · AI Automation · Data Engineering
 
-> **Building intelligent systems that turn data and AI into real-world solutions.**
+**I design intelligent systems that move from data → models → automation → production.**
 
----
+<br/>
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafasoliman-cloud)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafasolian2080@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mostafasoliman-cloud&style=for-the-badge&color=161b22)](https://github.com/mostafasoliman-cloud)
 
-I'm an **AI Engineer** focused on designing, building, and deploying intelligent systems.
-
-My work sits at the intersection of:
-
-**Artificial Intelligence × Machine Learning × Automation × Data × Software Engineering**
-
-I enjoy turning ideas into practical systems — from data processing and machine learning models to AI-powered automation and production-ready applications.
-
-* 🤖 Artificial Intelligence & Machine Learning
-* ⚙️ AI Automation & AI Agents
-* 🚀 MLOps & Model Deployment
-* 📊 Data Analysis & Data Engineering
-* 🐍 Python Development
-* 🔌 API & Backend Integration
-* 🧠 Building practical AI systems
+</div>
 
 ---
 
-## 🧠 Engineering Focus
+## 01 · ENGINEERING PROFILE
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Building AI systems, not isolated models.
+
+I'm an AI-focused engineer interested in the complete lifecycle of intelligent software — from preparing data and developing ML solutions to integrating APIs, automating workflows, deploying services, and moving systems toward production.
+
+> **Understand the problem → design the system → build → automate → deploy → improve.**
+
+</td>
+<td width="45%" valign="top">
+
+### Core Areas
 
 ```text
-Data
-  ↓
-Data Processing
-  ↓
-Machine Learning
-  ↓
-AI Engineering
-  ↓
-Deployment
-  ↓
-MLOps
-  ↓
-Production
+AI / ML            ███████████████████░ 95%
+AI Automation      ██████████████████░░ 90%
+MLOps              ███████████████░░░░░ 75%
+Data Engineering   ███████████████░░░░░ 75%
+Backend / APIs     ██████████████░░░░░░ 70%
 ```
 
-I focus not only on **training models**, but also on understanding how AI systems are:
-
-**designed → integrated → deployed → monitored → improved**
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-### AI Engineering & Automation
-
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔥 Featured Projects
+## 02 · SYSTEM MINDSET
 
-## 🤖 AI Automation Systems
-
-Building intelligent workflows that connect:
+<div align="center">
 
 ```text
-AI Models
-   +
-APIs
-   +
-Business Applications
-   +
-Automation
-   ↓
-Intelligent Workflows
+┌─────────────┐      ┌──────────────┐      ┌─────────────┐
+│    DATA     │ ───▶ │ INTELLIGENCE │ ───▶ │   SOFTWARE  │
+└─────────────┘      └──────────────┘      └─────────────┘
+        │                    │                     │
+        └────────────────────┼─────────────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │   AUTOMATION    │
+                    └────────┬────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │    PRODUCTION   │
+                    └─────────────────┘
 ```
 
-Projects include AI-powered automation using **n8n, APIs, LLMs, email systems, databases and external services.**
+</div>
+
+I focus on the layer between an AI model and a real user: **APIs, data pipelines, orchestration, automation, deployment, reliability, and maintainability.**
 
 ---
 
-## 🧠 Machine Learning Projects
+## 03 · TECHNOLOGY STACK
 
-Developing machine learning solutions involving:
+### AI · Machine Learning · Data
 
-* Data preprocessing
-* Exploratory Data Analysis
-* Feature Engineering
-* Model Training
-* Model Evaluation
-* Prediction Pipelines
-* Model Deployment
-
----
-
-## ⚙️ AI Engineering Projects
-
-I build applications that combine:
-
-**AI Models + Backend + APIs + Data + Automation**
-
-The goal is to move beyond notebooks and create systems that can actually be used.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas" height="48" alt="AI and data stack" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+### Engineering · Backend · Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" height="48" alt="Engineering stack" />
+<img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48" alt="n8n" />
+</p>
+
+### Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
 </p>
 
 ---
 
-# 📊 Most Used Languages
+## 04 · WHAT I BUILD
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI Systems
+
+LLM-powered applications, intelligent assistants, ML pipelines, and practical AI products.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Automation
+
+AI agents and workflow automation connecting models, APIs, business tools, databases, and communication platforms.
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 MLOps
+
+Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring, and reproducible environments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Current Direction
+## 05 · SELECTED ENGINEERING WORK
+
+### `AI Automation Systems`
+> Connecting **LLMs + APIs + business applications + workflow orchestration** into usable automated systems.
+
+**Focus:** n8n · AI Agents · APIs · LLMs · Webhooks · Email · Databases
+
+### `Machine Learning Pipelines`
+> Turning raw data into reproducible workflows for preprocessing, feature engineering, training, evaluation, and inference.
+
+**Focus:** Python · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch
+
+### `Production AI Applications`
+> Building the software layer around AI — backend services, integrations, deployment, and automation.
+
+**Focus:** FastAPI · REST APIs · Docker · Git · Linux
+
+---
+
+## 06 · ENGINEERING ROADMAP
 
 ```text
-AI Engineering
-      │
-      ├── Machine Learning
-      │
-      ├── MLOps
-      │
-      ├── AI Agents
-      │
-      ├── AI Automation
-      │
-      ├── Data Engineering
-      │
-      └── Production AI Systems
+                         AI ENGINEERING
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+    MACHINE LEARNING       AI AGENTS          DATA SYSTEMS
+          │                   │                   │
+          ▼                   ▼                   ▼
+      DEEP LEARNING      AUTOMATION          PIPELINES
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              ▼
+                            MLOps
+                              │
+                              ▼
+                    PRODUCTION AI SYSTEMS
 ```
 
 ---
 
-# 📚 Currently Learning
+## 07 · CURRENTLY FOCUSED ON
 
-* Advanced Machine Learning
-* Deep Learning
-* MLOps
-* AI Agents
-* LLM Applications
-* Data Engineering
-* Cloud & Deployment
-* Production AI Architecture
-
----
-
-# 💡 Engineering Philosophy
-
-> **Don't just build models. Build systems.**
-
-I believe modern AI engineering is about connecting:
-
-**Data → Models → Software → Infrastructure → Automation**
-
-to create reliable and useful AI products.
+- Advanced Machine Learning & Deep Learning
+- AI Agents and LLM applications
+- AI Automation architecture
+- MLOps and model deployment
+- Data Engineering fundamentals
+- Cloud-ready AI systems
+- Production-oriented software architecture
 
 ---
 
-# 🤝 Let's Connect
+## 08 · GITHUB ACTIVITY
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=mostafasoliman-cloud&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasoliman-cloud&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Most used languages" />
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=mostafasoliman-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 
-<p align="center">
+## 09 · ENGINEERING PRINCIPLE
 
-### ⭐ Building. Automating. Deploying. Improving.
+<div align="center">
 
-**AI Engineer in Progress 🚀**
+### **Don't just train models. Engineer systems.**
 
-</p>
+`DATA` → `MODEL` → `API` → `AUTOMATION` → `DEPLOYMENT` → `PRODUCTION`
+
+</div>
+
+---
+
+## 10 · LET'S BUILD
+
+If you're interested in **AI Engineering, intelligent automation, ML systems, or practical AI products**, feel free to connect.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Projects-0d1117?style=for-the-badge&logo=github)](https://github.com/mostafasoliman-cloud)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail)](mailto:mostafasolian2080@gmail.com)
+
+<br/><br/>
+
+`BUILD · AUTOMATE · DEPLOY · IMPROVE`
+
+</div>
