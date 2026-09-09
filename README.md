@@ -1,6 +1,6 @@
 <div align="center">
 
-# MOSTAFA MOUSA
+# MOSTAFA SOLIMAN
 ### AI Engineer · MLOps · AI Automation · Data Engineering
 
 **I design intelligent systems that move from data → models → automation → production.**
@@ -30,14 +30,16 @@ I'm an AI-focused engineer interested in the complete lifecycle of intelligent s
 </td>
 <td width="45%" valign="top">
 
-### Core Areas
+### Engineering Focus
 
 ```text
-AI / ML            ███████████████████░ 95%
-AI Automation      ██████████████████░░ 90%
-MLOps              ███████████████░░░░░ 75%
-Data Engineering   ███████████████░░░░░ 75%
-Backend / APIs     ██████████████░░░░░░ 70%
+AI / ML
+AI Automation
+MLOps
+Data Engineering
+Backend / APIs
+
+DATA → INTELLIGENCE → SOFTWARE → AUTOMATION
 ```
 
 </td>
@@ -46,33 +48,7 @@ Backend / APIs     ██████████████░░░░░░ 
 
 ---
 
-## 02 · SYSTEM MINDSET
-
-<div align="center">
-
-```text
-┌─────────────┐      ┌──────────────┐      ┌─────────────┐
-│    DATA     │ ───▶ │ INTELLIGENCE │ ───▶ │   SOFTWARE  │
-└─────────────┘      └──────────────┘      └─────────────┘
-        │                    │                     │
-        └────────────────────┼─────────────────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │   AUTOMATION    │
-                    └────────┬────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │    PRODUCTION   │
-                    └─────────────────┘
-```
-
-</div>
-
-I focus on the layer between an AI model and a real user: **APIs, data pipelines, orchestration, automation, deployment, reliability, and maintainability.**
-
----
-
-## 03 · TECHNOLOGY STACK
+## 02 · TECHNOLOGY STACK
 
 ### AI · Machine Learning · Data
 
@@ -97,27 +73,27 @@ I focus on the layer between an AI model and a real user: **APIs, data pipelines
 
 ---
 
-## 04 · WHAT I BUILD
+## 03 · WHAT I BUILD
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI Systems
+### AI Systems
 
 LLM-powered applications, intelligent assistants, ML pipelines, and practical AI products.
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Automation
+### Automation
 
 AI agents and workflow automation connecting models, APIs, business tools, databases, and communication platforms.
 
 </td>
 <td width="33%" valign="top">
 
-### 🚀 MLOps
+### MLOps
 
 Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring, and reproducible environments.
 
@@ -127,7 +103,7 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 ---
 
-## 05 · SELECTED ENGINEERING WORK
+## 04 · SELECTED ENGINEERING WORK
 
 ### `AI Automation Systems`
 > Connecting **LLMs + APIs + business applications + workflow orchestration** into usable automated systems.
@@ -146,29 +122,7 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 ---
 
-## 06 · ENGINEERING ROADMAP
-
-```text
-                         AI ENGINEERING
-                              │
-          ┌───────────────────┼───────────────────┐
-          ▼                   ▼                   ▼
-    MACHINE LEARNING       AI AGENTS          DATA SYSTEMS
-          │                   │                   │
-          ▼                   ▼                   ▼
-      DEEP LEARNING      AUTOMATION          PIPELINES
-          │                   │                   │
-          └───────────────────┼───────────────────┘
-                              ▼
-                            MLOps
-                              │
-                              ▼
-                    PRODUCTION AI SYSTEMS
-```
-
----
-
-## 07 · CURRENTLY FOCUSED ON
+## 05 · CURRENTLY FOCUSED ON
 
 - Advanced Machine Learning & Deep Learning
 - AI Agents and LLM applications
@@ -180,7 +134,7 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 ---
 
-## 08 · GITHUB ACTIVITY
+## 06 · GITHUB ACTIVITY
 
 <div align="center">
 
@@ -195,19 +149,7 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 ---
 
-## 09 · ENGINEERING PRINCIPLE
-
-<div align="center">
-
-### **Don't just train models. Engineer systems.**
-
-`DATA` → `MODEL` → `API` → `AUTOMATION` → `DEPLOYMENT` → `PRODUCTION`
-
-</div>
-
----
-
-## 10 · LET'S BUILD
+## 07 · LET'S BUILD
 
 If you're interested in **AI Engineering, intelligent automation, ML systems, or practical AI products**, feel free to connect.
 
