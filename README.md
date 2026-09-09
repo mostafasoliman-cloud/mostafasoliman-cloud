@@ -138,12 +138,32 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mostafasoliman-cloud&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasoliman-cloud&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="165" alt="Most used languages" />
+<table>
+<tr>
+<td align="center" width="50%">
+
+**CODE & CONTRIBUTIONS**
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mostafasoliman-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub contribution activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=mostafasoliman-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+
+</td>
+<td align="center" width="50%">
+
+**LANGUAGE PROFILE**
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasoliman-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=6" alt="Most used languages" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mostafasoliman-cloud&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub contribution activity" />
 
 </div>
 
