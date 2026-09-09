@@ -138,14 +138,6 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 <div align="center">
 
-**LANGUAGE PROFILE**
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasoliman-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=6" alt="Most used languages" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=mostafasoliman-cloud&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub contribution activity" />
 
 </div>
