@@ -134,7 +134,7 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 ---
 
-## 06 · GITHUB ACTIVITY
+## 06 · DEVELOPMENT OVERVIEW
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Deployment-oriented ML engineering with APIs, containers, pipelines, monitoring,
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mostafasoliman-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=mostafasoliman-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub contribution activity" />
 
 </div>
 
